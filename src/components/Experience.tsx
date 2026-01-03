@@ -5,7 +5,7 @@ const experience = [
     date: "(may 2026 - jul 2026)",
     description:
       "the possibilities are endless",
-    link: "https://www.linkedin.com/company/zentreelabs/",
+    link: "https://www.linkedin.com/company/linkedin/",
   },
   {
     title: "Zentree Labs ",
